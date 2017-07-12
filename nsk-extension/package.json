@@ -1,0 +1,11 @@
+{
+  "name": "nsk-extension",
+  "version": "1.0.0",
+  "description": "Description === NSK-extension is powered by Navibator Software Kits. It provides some object extension. Enjoy! :smile:",
+  "main": "nsk-extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
