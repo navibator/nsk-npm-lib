@@ -1,0 +1,12 @@
+{
+  "name": "demo.js",
+  "version": "1.0.0",
+  "author": "allen.ni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navibator/nsk-npm-lib/issues"
+  },
+  "scripts": {
+    "start": "node demo.js"
+  }
+}

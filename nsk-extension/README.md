@@ -1,8 +1,7 @@
 
 Description
 ===
-NSK-extension is powered by Navibator Software Kits.
-It provides some object extension. Enjoy! :smile:
+NSK-extension is powered by Navibator Software Kits. Enjoy! :smile:
 
 Install
 ===

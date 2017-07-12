@@ -1,8 +1,7 @@
 
 Description
 ===
-NSK-algorithm is powered by Navibator Software Kits.
-It provides some useful methods. Enjoy! :smile:
+NSK-algorithm is powered by Navibator Software Kits. Enjoy! :smile:
 
 Install
 ===

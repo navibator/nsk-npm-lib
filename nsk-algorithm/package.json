@@ -1,11 +1,7 @@
 {
   "name": "nsk-algorithm",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "1.0.3",
+  "description": "Some useful methods by navibator-software-kits",
   "author": "allen.ni",
-  "license": "ISC"
+  "license": "MIT"
 }
